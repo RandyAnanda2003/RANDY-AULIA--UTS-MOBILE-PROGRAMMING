@@ -1,0 +1,8 @@
+<resources>
+    <style name="BottomNavigationTextStyle">
+        <item name="android:textSize">100sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+
+</resources>

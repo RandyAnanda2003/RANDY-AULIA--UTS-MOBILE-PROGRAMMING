@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    tools:context=".DetailaAlumni">
+
+    <EditText
+        android:id="@+id/npmTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NPM:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="16dp"/>
+
+    <EditText
+        android:id="@+id/namaTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_below="@id/npmTextView"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="16dp"/>
+
+    <EditText
+        android:id="@+id/tempatLahirTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_below="@id/npmTextView"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="16dp"/>
+
+    <EditText
+        android:id="@+id/tanggalLahirTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_below="@id/npmTextView"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="16dp"/>
+
+    <EditText
+        android:id="@+id/alamatTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_below="@id/npmTextView"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="16dp"/>
+
+    <EditText
+        android:id="@+id/agamaTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_below="@id/npmTextView"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="16dp"/>
+
+    <EditText
+        android:id="@+id/telponTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_below="@id/npmTextView"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="16dp"/>
+
+    <EditText
+        android:id="@+id/tahunMasukTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_below="@id/npmTextView"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="16dp"/>
+
+    <EditText
+        android:id="@+id/tahunKeluarTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_below="@id/npmTextView"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="16dp"/>
+
+    <EditText
+        android:id="@+id/pekerjaanTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_below="@id/npmTextView"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="16dp"/>
+
+    <EditText
+        android:id="@+id/jabatanTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_below="@id/npmTextView"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="16dp"/>
+
+</RelativeLayout>
